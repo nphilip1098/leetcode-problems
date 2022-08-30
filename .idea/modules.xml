@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarysearch/binarysearch.iml" filepath="$PROJECT_DIR$/binarysearch/binarysearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/bitmanipulation/bitmanipulation.iml" filepath="$PROJECT_DIR$/bitmanipulation/bitmanipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/mathandgeometry/mathandgeometry.iml" filepath="$PROJECT_DIR$/mathandgeometry/mathandgeometry.iml" />

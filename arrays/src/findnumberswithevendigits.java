@@ -6,7 +6,7 @@ public class findnumberswithevendigits {
     public static int findNumbers(int[] nums) {
         int counter = 0;
         for(int i = 0;i<nums.length;i++){
-            int digits = countdigits(nums[i]);
+            int digits = countdigits_faster(nums[i]);
             if(digits%2 == 0){
                 counter++;
             }
@@ -22,5 +22,9 @@ public class findnumberswithevendigits {
             n = n/10;
         }
         return counter;
+    }
+
+    public static int countdigits_faster(int n){
+        return (int)Math.log10(n) + 1;
     }
 }
