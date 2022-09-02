@@ -1,5 +1,3 @@
-import java.nio.file.attribute.UserDefinedFileAttributeView;
-
 public class Search_rotated_array {
     public static void main(String[] args) {
         System.out.println(search(new int[] {1},1));
