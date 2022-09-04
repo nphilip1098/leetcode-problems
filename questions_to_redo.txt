@@ -1,2 +1,6 @@
 Binary Search
 1. Search in Rotated Array
+
+
+Matrices
+1. Spiral Matrix(solved only brute force)
